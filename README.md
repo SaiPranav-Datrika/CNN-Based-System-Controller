@@ -7,6 +7,8 @@ of communication between people to describe any aspect. Thus, we have used this 
 to control the objects in between us. There are many other ways to control the devices but this
 method helps human to control the devices in a safe and comfortable user interface for diverse
 applications.
+
+
 The main aim of the project is to take the input as a hand gesture and produce the output to
 identify the devices like light, fan, motor, doors etc.. to be controlled in the surroundings and
 to create the modern way of lifestyle to the people. To develop such a user interface we have
