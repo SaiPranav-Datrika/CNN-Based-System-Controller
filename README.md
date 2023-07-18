@@ -15,3 +15,5 @@ to create the modern way of lifestyle to the people. To develop such a user inte
 used feed forward artificial neural networks such as Convolution Neural Network (CNN) with
 keras in python. This model is used to classify the hand gesture that has sent as input to the
 system and give a required output to control the device with the help of hand gesture.
+
+![]()
