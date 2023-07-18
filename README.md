@@ -16,4 +16,4 @@ used feed forward artificial neural networks such as Convolution Neural Network 
 keras in python. This model is used to classify the hand gesture that has sent as input to the
 system and give a required output to control the device with the help of hand gesture.
 
-![]()
+![](https://github.com/SaiPranav-Datrika/CNN-Based-System-Controller/blob/master/CNN%20Screenshot.png)
